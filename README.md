@@ -1,12 +1,20 @@
-# MakersBnB Project Seed
+<h1 align="center">MakersBnB</h1>
 
-This repo contains the seed codebase for the MakersBnB project in Python (using 
-Flask and Pytest).
+<p align="center">
+In this group project, we were taskded with designing and intrating SQL databases in Python to create a web application called MakersBnB.</p>
 
-Someone in your team should fork this seed repo to their Github account. 
-Everyone in the team should then clone this fork to their local machine to work on it.
+<p>MakersBnB is an AirBnb replica web application where you can register as a user, log-in as a user, and find and book accomodation or offer accomodation to be booked.</p>
 
-## Setup
+## Tech stack
+
+**Frontend:**
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+
+**Backend:**
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+
+## Running the App
 
 ```shell
 # Install dependencies and set up the virtual environment
@@ -15,11 +23,10 @@ Everyone in the team should then clone this fork to their local machine to work 
 # Activate the virtual environment
 ; pipenv shell
 
-# Install the virtual browser we will use for testing
+# Install the virtual browser used for testing
 ; playwright install
-# If you have problems with the above, contact your coach
 
-# Create a test and development database
+# Create test and development database
 ; createdb YOUR_PROJECT_NAME
 ; createdb YOUR_PROJECT_NAME_TEST
 
