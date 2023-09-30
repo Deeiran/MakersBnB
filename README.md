@@ -11,6 +11,7 @@ In this group project, we were tasked with designing and integrating a SQL datab
 * **[David Ade]**
 * **[Huda]**
 * **[Jake Siney]**
+* **[Roberto Quadraccia]**
 * **[Senthooran]**
 
 ## Tech stack
