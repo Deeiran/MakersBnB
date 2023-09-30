@@ -1,9 +1,17 @@
 <h1 align="center">MakersBnB</h1>
 
 <p align="center">
-In this group project, we were taskded with designing and intrating SQL databases in Python to create a web application called MakersBnB.</p>
+In this group project, we were tasked with designing and intrating SQL databases in Python to create a web application called MakersBnB within 4 days.</p>
 
 <p align="center">MakersBnB is an AirBnb replica web application where you can register as a user, log-in as a user, and find and book accomodation or offer accomodation to be booked.</p>
+
+## Our Team
+
+* **[Ami Day](https://github.com/ami-day)**
+* **[David Ade]**
+* **[Huda]**
+* **[Jake Siney]**
+* **[Senthooran]**
 
 ## Tech stack
 
