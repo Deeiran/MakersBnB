@@ -3,7 +3,7 @@
 <p align="center">
 In this group project, we were tasked with designing and integrating a SQL database in Python to create a web application called MakersBnB within 4 days.</p>
 
-<p align="center">MakersBnB is an AirBnb replica web application where you can register as a user, log-in as a user, and find and book accomodation or offer accomodation to be booked.</p>
+<p align="center">MakersBnB is an AirBnB replica web application where you can register as a user, log-in as a user, and find and book accomodation or offer accomodation to be booked.</p>
 
 ## Our Team
 
