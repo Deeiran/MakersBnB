@@ -10,7 +10,7 @@ In this group project, we were tasked with designing and integrating a SQL datab
 * **[Ami Day](https://github.com/ami-day)**
 * **[David Ade]**
 * **[Huda]**
-* **[]**
+* **[Roberto Quadraccia]**
 * **[]**
 * **[]**
 
