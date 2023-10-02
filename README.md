@@ -8,8 +8,8 @@ In this group project, we were tasked with designing and integrating a SQL datab
 ## Our Team
 
 * **[Ami Day](https://github.com/ami-day)**
-* **[]**
-* **[]**
+* **[David Ade]**
+* **[Huda]**
 * **[]**
 * **[]**
 * **[]**
