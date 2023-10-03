@@ -12,7 +12,7 @@ In this group project, we were tasked with designing and integrating a SQL datab
 * **[Huda](https://github.com/hudaa12])**
 * **[Roberto Quadraccia](https://github.com/Super-robbin)**
 * **[Jake Siney](https://github.com/jakesiney)**
-* **[]**
+* **Senthooran**
 
 ## Tech stack
 
